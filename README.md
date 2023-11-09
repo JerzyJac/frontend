@@ -2,4 +2,4 @@
 
 ## Rozwiazania
 
-### [Zad 1 - Hamburger] (https://jerzyjac.github.io/frontend/zad1)
+### [Zad 1 - Hamburger] (https://jerzyjac.github.io/frontend/)
